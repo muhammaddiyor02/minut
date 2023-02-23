@@ -1,0 +1,22 @@
+body{
+  background-color: #EED6D3;
+}
+
+.container{
+    width: 700px;
+    margin: 0 auto;
+}
+
+.bg{
+    background-color: cyan;
+}
+.box{
+    width: 50px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border:none;
+    border-radius: 12px;
+    background-color: lightgreen;
+}
